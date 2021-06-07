@@ -1,0 +1,126 @@
+*{padding:0;margin:0;box-sizing:boder-box;}
+body{
+	font-family:'poppins',sans-serif;
+	font-size:14px;
+	color:#808080;
+}
+h2{
+	font-size:30px;
+	font-weight:600;
+	color:#444444;
+}
+    /*========================
+		  common css
+	============================*/
+.sec-title{
+	text-align:center;
+}
+.sec-title .subtitle{
+	font-size:10px;
+}
+.sec-title .subtitle h2 span{
+	color:#8BC34A;
+}
+.subtitle .button-style{
+	background:#8BC34A;
+	width:40px;
+	height:3px;
+	margin:0 auto;
+	margin-top:15px;
+	position:relative;	
+}
+.subtitle .button-style:after{
+	content:"";
+	position:absolute;
+	background:#e8e8e8;
+	left:-10px;
+	right:-10px;
+	height:1px;top:1px;
+	z-index:-9999;
+	
+}	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		  /*==========================
+					Header Area
+			========================== */
+.top-bar{
+	background:#343434;
+}
+.top-content{
+	display:flex;
+	justify-content:space-between;
+}
+.top-left ul,.top-right ul{
+	display:flex;
+	margin:0;
+	padding:0;
+	
+}
+.top-left ul li,.top-right ul li{
+	list-style:none;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:15px;
+}
+.top-left ul li {
+	margin-right:25px;
+}
+.top-left ul li i{
+	margin-right:6px;
+}
+
+.top-right ul li a{
+	color:#7B8080;
+	margin-left:15px;
+	
+}
+.top-right ul li a:hover{
+	color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
